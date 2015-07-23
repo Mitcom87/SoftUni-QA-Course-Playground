@@ -1,1 +1,2 @@
 Bugs everywhere 
+Some bug was fixed 
